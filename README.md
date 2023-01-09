@@ -1,1 +1,1 @@
-# docker-git-bfg
+# Docker BFG
